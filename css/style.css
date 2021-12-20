@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+img{
+    width: 400px;
+}
+.texte_gras{
+    font-family: 'Archivo Black', sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 30px;
+}
+#contact{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+}
+.text{
+    color: #FFDF2B;
+    font-family: 'Archivo Black', sans-serif;
+}
+#nom{
+    color: #FFDF2B;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 50px;
+}
+#dev{
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 45px;
+}
+.text-blanc{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+}
+.titre-blanc{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+}
+.separation_jaune{
+    background-color: #FFDF2B;
+    height: 1px;
+}
+#experiences{
+    padding-top: 70px;
+    background-color: #303F3C;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+#separation{
+    background-color: white;
+    height: 3px;
+}
